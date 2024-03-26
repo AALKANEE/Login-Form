@@ -10,6 +10,9 @@ const getMe=()=>{
 const addCourse=(course)=>{
     return true
 }
-const removeCourse=(course)=>{
+const removeCourse=(courseID)=>{
+    return true
+}
+const removeArticle=(articleID)=>{
     return true
 }
