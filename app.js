@@ -16,3 +16,6 @@ const removeCourse=(courseID)=>{
 const removeArticle=(articleID)=>{
     return true
 }
+const addArticle=(article)=>{
+    return true
+}
